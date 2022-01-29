@@ -1,0 +1,16 @@
+Resumo Git/Github
+
+1. Abre o GitBash
+2. Dá um "git init" para iniciar
+3. Abre a página do repositório
+
+4. Verifica o status "git status"
+
+5. Caso tenha pasta nova para adicionar ao Github, usar o comando (controle local)
+"git add ." ou "git add -A"
+
+6. Commitar o novo arquivo ou código 
+"git commit -m "mensagem que vai ser adicionada" ".
+
+7. Para enviar todos os arquivos pro Github necessário fazer um push
+"git push origin main" 
