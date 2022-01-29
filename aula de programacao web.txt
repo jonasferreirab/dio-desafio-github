@@ -1,0 +1,33 @@
+-Mudar de pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletas pasta/arquivos
+
+
+Windows:
+
+- cd - cd/ - manda pro diretório geral da maquina ou informa o caminho da pasta onde você deseja ir.
+- dir - mostra todas as pastas daquele diretorio
+- mkdir - cria página no diretorio
+- echo cria um arquivo no windows, colocar formato no fim
+- rmdir - apaga repositorio inteiro
+- del / rmdir
+- cls - limpa a tela
+
+
+Unix: 
+- cd - cd/ - manda pro diretório geral da maquina
+- ls - mostra todas as pastas daquele diretorio
+- mkdir - mkdir - cria página no diretorio
+- rm -rf
+- clear - limpa a tela
+
+
+----------------------------
+
+- git init - Inicia o Git
+- git add - Iniciar o versionamento
+- git commit - Criar um commit
+
+
+
